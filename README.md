@@ -10,7 +10,7 @@ The purpose of this project is to manage goals and the progress towards achiving
 - Github Link:  https://github.com/SWIRTH9092/goalmgr_frontend
 
 ##### Back End
-- Live Site Link: 
+- Live Site Link: https://swgoalmanager.sanity.studio/
 
 ##### Features
 - Userid Login

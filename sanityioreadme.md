@@ -6,7 +6,7 @@
 The purpose of this project is to manage goals and the progress towards achiving the goals.  
 
 ##### Links
-- Sanityio: 
+- Sanityio: https://swgoalmanager.sanity.studio/
 
 ##### Technology Used
 - sanity 
